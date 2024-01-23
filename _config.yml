@@ -1,12 +1,9 @@
 title: <p align="center"> Kevin Bates </p>
 #description: Data Analyst Portfolio
 logo: /profile.png
-img {
-    border-radius: 50%;
-  }
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="pdf/KevinBates_Resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/kevinjbts/">LinkedIn</a> |
   <a href="https://github.com/kevinjbts">GitHub</a>
   </p>
