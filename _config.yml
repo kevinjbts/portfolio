@@ -1,5 +1,17 @@
-title: Kevin Bates
-logo: kevinjbts_portfolio/101.png
+title: <p align="center"> Kevin Bates </p>
 #description: Data Analyst Portfolio
-show_downlaods: True
+logo: "/kevinjbts_portfolio/101.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/kevinjbts/">LinkedIn</a> |
+  <a href="https://github.com/kevinjbts">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  8+ Years experience in Data & Strategy with a focus on Emerging Strategy & Innovation
+  <br><br>
+  </p>
+  
 theme: jekyll-theme-minimal
