@@ -26,11 +26,11 @@ www.linkedin.com/in/kevinjbts
 
 # Projects
 ## AirBnB Tableau Visualization
-![](https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/bikesales.png)
+![]("https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/bikesales.PNG")
 ## Covid Tableau Visualization
 
 ## Sales Data Example
-![](https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/bikesales.png)
+![]("https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/bikesales.png")
 
 ## Sales Dashboard Example
-![](https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/CovidDdata.png)
+![](CovidDdata.png)
