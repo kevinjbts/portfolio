@@ -31,7 +31,7 @@ www.linkedin.com/in/kevinjbts
 Utilizing data from zeroAirBnB data from SeattleWashington, the visualization provides insight into potential opportunity for key metrics for a friend deciding whether or not to enter the AirBnB business. 
 The full visualization native in Tableau can be found here: 
 
-https://public.tableau.com/views/AirBnBDataSampleDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/AirBnBDataSampleDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link](url)
 
 Key insights include the following: 
 
@@ -42,7 +42,8 @@ Utilized WHO data to clean, join, and visualize visualization of Covid Data, wit
 The full visualization native in tableau can be found here: 
 https://public.tableau.com/views/CovidDataSampleDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 Key insights include the following: 
-`--SELECT  * 
+
+```--SELECT  * 
 
 --FROM still-primer-356101.coviddeaths.coviddeaths 
 
@@ -111,7 +112,9 @@ WHERE continent IS NOT NULL
 GROUP BY location, population
 
 ORDER BY TotalDeathCount DES
-`
+```
+
+
 ## Sales Data Example
 ![](/bikesales.png)
 
