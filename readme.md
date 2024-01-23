@@ -7,7 +7,7 @@ I'm a trusted advisor for any organization I'm apart of. With a decade of experi
 www.linkedin.com/in/kevinjbts
 
 ## My Experience
-
+![](https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/bikesales.png)
 - Innovatio Program Manager @ McKesson
 - [Dates]
 - Supported Fortune 10 Corporate Strategy Team on piloting enterprise-wide growth pilots that leveraged AI & Data capabilities.
