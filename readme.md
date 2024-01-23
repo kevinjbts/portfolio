@@ -1,5 +1,3 @@
-#This is a readme file
-
 # Kevin Bates - Data & Strategy Professional
 
 I'm a trusted advisor for any organization I'm apart of. With a decade of experience with a focus on launching new ventures, advising on operational and marketing campaigns, and developing sustainable strategy. I'm most engaged in working on impactful projects in uncovered oceans. Previous experiences include capital raising for early-stage companies, launching equity-crowdfunding campaigns in a brand new industry, and supporting a data team with BI & investor relations support. 
@@ -7,7 +5,6 @@ I'm a trusted advisor for any organization I'm apart of. With a decade of experi
 www.linkedin.com/in/kevinjbts
 
 ## My Experience
-![](https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/bikesales.png)
 - Innovatio Program Manager @ McKesson
 - [Dates]
 - Supported Fortune 10 Corporate Strategy Team on piloting enterprise-wide growth pilots that leveraged AI & Data capabilities.
@@ -29,9 +26,11 @@ www.linkedin.com/in/kevinjbts
 
 # Projects
 ## AirBnB Tableau Visualization
-
+![](https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/bikesales.png)
 ## Covid Tableau Visualization
 
 ## Sales Data Example
+![](https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/bikesales.png)
 
 ## Sales Dashboard Example
+![](https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/CovidDdata.png)
