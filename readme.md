@@ -33,4 +33,4 @@ www.linkedin.com/in/kevinjbts
 ![]("https://github.com/kevinjbts/kevinjbts_portfolio/blob/main/bikesales.png")
 
 ## Sales Dashboard Example
-![](CovidDdata.png)
+![](/CovidDdata.png)
