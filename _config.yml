@@ -1,6 +1,6 @@
 title: <p align="center"> Kevin Bates </p>
 #description: Data Analyst Portfolio
-logo: 101.png
+logo: "/101.png?raw=true"
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
