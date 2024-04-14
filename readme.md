@@ -43,17 +43,20 @@ The full visualization native in tableau can be found here:
 https://public.tableau.com/views/CovidDataSampleDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 Key insights include the following: 
 
-````--SELECT  * 
+```SELECT  * 
 
---FROM still-primer-356101.coviddeaths.coviddeaths 
+FROM still-primer-356101.coviddeaths.coviddeaths 
 
---ORDER BY 3,4
+ORDER BY 3,4```
 
---SELECT  * 
 
---FROM still-primer-356101.coviddeaths.covidvaccinations 
+Testing another section with a code block:
 
---ORDER BY 3,4
+```
+SELECT  * 
+FROM still-primer-356101.coviddeaths.covidvaccinations 
+ORDER BY 3,4
+```
 
 --Select the Data we will be using for the project: 
 
