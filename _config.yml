@@ -1,5 +1,14 @@
 title: Kevin Bates
 logo: /profile.png
+img {
+    max-width: 200px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 0px;
+      border: 0px solid $border-color;
+    }
+  }
 description: Data Analyst & Strategist
 show_downloads: false
 theme: jekyll-theme-minimal
