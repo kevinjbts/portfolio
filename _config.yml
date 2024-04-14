@@ -1,17 +1,6 @@
-title: <p align="center"> Kevin Bates </p>
-#description: Data Analyst Portfolio
-logo: /profile.png
-description:
-  <p align="center">
-  <a href="/portfolio/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/kevinjbts/">LinkedIn</a> |
-  <a href="https://github.com/kevinjbts">GitHub</a>
-  </p>
-  
-  <p align="justify">
-  8+ Years experience in Data & Strategy with a focus on Emerging Strategy & Innovation
-  <br><br>
-  </p>
-  
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-baseurl: portfolio
