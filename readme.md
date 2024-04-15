@@ -1,4 +1,4 @@
-# Kevin Bates - Data & Strategy Professional
+# Kevin Bates - Data & Strategy Professional [Project #1 Full Text](/sample_page.md)
 With 8+ years of strategy experience, including market research, investment due dilligence, marketing, and operational roles, I have recently solidified additional Data Analysis Skillsets that can be complementary to my past experiences. 
 
 [Let's connect on LinkedIn!](www.linkedin.com/in/kevinjbts)
