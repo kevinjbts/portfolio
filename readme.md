@@ -1,9 +1,26 @@
 # Kevin Bates - Data & Strategy Professional
-----
-
 With 8+ years of strategy experience, including market research, investment due dilligence, marketing, and operational roles, I have recently solidified additional Data Analysis Skillsets that can be complementary to my past experiences. 
 
-[Let's connect on LinkedIn!] (www.linkedin.com/in/kevinjbts)
+[Let's connect on LinkedIn!](www.linkedin.com/in/kevinjbts)
+
+## Experience
+
+*Test 
+* Test
+* da;lfkdj
+* asldfkj
+* asdflkj
+* **test** * *test* *
+
+1. a;lsdkjf
+2.   alskdjf
+3.   laskjdf        ;alksdj f
+4.   ;lksjd f
+5.   ;alksjdf
+
+-a;lskdjf 
+-;alsdfjk 
+;alsdjfk - 
 
 <details>
   <summary> ##My Experience</summary>
