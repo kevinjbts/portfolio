@@ -1,47 +1,23 @@
-[Project #1 Full Text](/sample_page.md)
-With 8+ years of strategy experience, including market research, investment due dilligence, marketing, and operational roles, I have recently solidified additional Data Analysis Skillsets that can be complementary to my past experiences. 
+# Professional Summary
+Kevin Bates is passionate about uncovering data-driven insights and leveraging them to create meaningful long-term growth for businesses. Kevin has helped launch new ventures, guided strategy for operations and marketing campaigns, and provided analytics and investor relations support. If you are looking for someone to bring a holistic perspective on business intelligence and strategy, let's connect and explore how to contribute to your organization's success. [Let's connect on LinkedIn!](www.linkedin.com/in/kevinjbts)
 
-## Projects
+# Links to Projects 
 * [Sales Dashboard Example](#sales-dashboard-example) 
 * [Sales Data Example](#sales-data-example)
-* (Covid Tableau Visualization)[Covid Tableau Visualization](#covid-tableau-visualization)
+* [Covid Tableau Visualization](#covid-tableau-visualization)
 * [AirBnB Tableau Visualization](#airbnb-tableau-visualization)
 
-  
-[Let's connect on LinkedIn!](www.linkedin.com/in/kevinjbts)
-
 ## Experience
-
-*Test 
-* Test
-* da;lfkdj
-* asldfkj
-* asdflkj
-* **test** * *test* *
-
-1. a;lsdkjf
-2.   alskdjf
-3.   laskjdf        ;alksdj f
-4.   ;lksjd f
-5.   ;alksjdf
-
--a;lskdjf 
--;alsdfjk 
-;alsdjfk - 
-
-<details>
-  <summary> ##My Experience</summary>
-  * * *Innovation Program Manager* *, Streamlytics
-  *Test123
-</details>
+* Innovation Program Manager, * *McKesson* *
+* Business Intelligence Manager, * *Streamlytics* *
+* Digital Strategist, * *Digital Niche Agency* *
+* Engagement Manager, * *Growthink* *
 
 ## Education
-*Bachelor's of Business Administration (Entrepreneurship) | Loyola Marymount University
+* Bachelor's of Business Administration, Entrepreneurship **Loyola Marymount University**
 
 ## Certifications
-*Google Data Analyst | Coursera (Key Courses Included: PowerBI, Tableau, Data Cleaning, Machine Learning)
-*Datacamp SQL Fundamentals
-* ***BIDA*** Corporate Finance Institue
+* Google Data Analyst, Coursera (Key Courses Included: PowerBI, Tableau, Data Cleaning and Machine Learning)
 
 # Projects
 ## [AirBnB Tableau Visualization](/projects/airbnb_tableau_visualization)
