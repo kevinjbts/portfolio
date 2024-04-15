@@ -44,7 +44,7 @@ With 8+ years of strategy experience, including market research, investment due 
 * ***BIDA*** Corporate Finance Institue
 
 # Projects
-## AirBnB Tableau Visualization
+## [AirBnB Tableau Visualization](/airbnb_tableau_visualization)
 ![](/AirBnbTableau.png)
 
 Utilizing data from zeroAirBnB data from SeattleWashington, the visualization provides insight into potential opportunity for key metrics for a friend deciding whether or not to enter the AirBnB business. 
@@ -54,7 +54,7 @@ The full visualization native in Tableau can be found here:
 
 Key insights include the following: 
 
-## Covid Tableau Visualization
+## [Covid Tableau Visualization](/covid_visualization.md)
 
 ![](/CovidDdata.png)
 
