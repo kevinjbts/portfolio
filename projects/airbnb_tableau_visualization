@@ -3,6 +3,7 @@ layout: default
 title: AirBnB Project in Tableau
 description: Tableau Visualization
 --- 
+![](/AirBnbTableau.png)
 
 # Summary
 
@@ -15,5 +16,6 @@ Utilizing the zeroAirBnB dataset (focusing on Seattle, Washington), this project
 * Time analysis of price for timing considerations
 * Listing by number of bedrooms
 
+# Link
 [Full Tableau Visualization can be found here](https://public.tableau.com/app/profile/kevin.bates3947/viz/AirBnBDataSampleDashboard/Dashboard1)
 
