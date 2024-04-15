@@ -2,13 +2,12 @@
 With 8+ years of strategy experience, including market research, investment due dilligence, marketing, and operational roles, I have recently solidified additional Data Analysis Skillsets that can be complementary to my past experiences. 
 
 ## Projects
-* [Sales Dashboard Example](##sales-dashboard-example) 
-* Sales Data Example [#Sales Data Example](##sales-data-example)
-* Covid Tableau Visualization[## Covid Tableau Visualization](##covid-tableau-visualization)
-* [## AirBnB Tableau Visualization](## AirBnB Tableau Visualization)
+* [Sales Dashboard Example](#sales-dashboard-example) 
+* [Sales Data Example](#sales-data-example)
+* (Covid Tableau Visualization)[Covid Tableau Visualization](#covid-tableau-visualization)
+* [AirBnB Tableau Visualization](#airbnb-tableau-visualization)
 
-*
-
+  
 [Let's connect on LinkedIn!](www.linkedin.com/in/kevinjbts)
 
 ## Experience
