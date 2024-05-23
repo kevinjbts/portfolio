@@ -16,7 +16,7 @@ Additionally, my data certifications include:
 * [Sales Data Example](#sales-data-example)
 
 # Projects
-## [AirBnB Tableau Visualization](/projects/airbnb_tableau_visualization)
+## [AirBnB Tableau Visualization](/projects/airbnb_tableau_visualization.md)
 ![](/AirBnbTableau.png)
 
 Utilizing data from zeroAirBnB data from SeattleWashington, the visualization provides insight into potential opportunity for key metrics for a friend deciding whether or not to enter the AirBnB business. 
@@ -99,7 +99,7 @@ WHERE continent IS NOT NULL
 GROUP BY location, population
 ORDER BY TotalDeathCount DES
 ```
-## [Sales Data Example](/projects/sales_data_example)
+## [Sales Data Example](/projects/sales_data_example.md)
 ![](/bikesales.png)
 
 As part of the CFI BIDA certification, the data below provides sample data set of visualizing key metrics for sales metrics for a fictional company, CalWest.  
@@ -107,7 +107,7 @@ As part of the CFI BIDA certification, the data below provides sample data set o
 
 ...insights to be added
 
-## [Sales Dashboard Example](/projects/sales_dashboard_example)
+## [Sales Dashboard Example](/projects/sales_dashboard_example.md)
 ## Sales Dashboard Example
 ![](/CovidDdata.png)
 
