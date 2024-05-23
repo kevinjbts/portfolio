@@ -9,7 +9,7 @@ Additionally, my data certifications include:
 * SQL Fundamentals, Datacamp
 * Tableau Fundamentals, Datacamp
 
-# Data Projects
+# Index
 * [AirBnB Tableau Visualization](#airbnb-tableau-visualization)
 * [Covid Tableau Visualization](#covid-tableau-visualization)
 * [Sales Dashboard Example](#sales-dashboard-example) 
