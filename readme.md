@@ -1,29 +1,19 @@
-
 # Kevin Bates, Data Analyst & Strategist
 Kevin is passionate about uncovering data-driven insights and leveraging them to create meaningful long-term growth for businesses. Kevin has helped launch new ventures, guided strategy for operations and marketing campaigns, and provided analytics and investor relations support. If you are looking for someone to bring a holistic perspective on business intelligence and strategy, let's connect and explore how to contribute to your organization's success. [Let's connect on LinkedIn!](www.linkedin.com/in/kevinjbts)
 
-[Full Tableau Visualization Available Here](https://public.tableau.com/views/InteractiveResume_17164880120110/InteractiveResume?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[View my Interactive Resume in Tableau Here](https://public.tableau.com/views/InteractiveResume_17164880120110/InteractiveResume?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-<div class='tableauPlaceholder' id='viz1716492192807' style='position: relative'><noscript><a href='#'><img alt='Interactive Resume ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;InteractiveResume_17164880120110&#47;InteractiveResume&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='InteractiveResume_17164880120110&#47;InteractiveResume' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;InteractiveResume_17164880120110&#47;InteractiveResume&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1716492192807');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+Additionally, my data certifications include: 
+* Google Data Analyst, Coursera
+* Data Analyst Track, Datacamp
+* SQL Fundamentals, Datacamp
+* Tableau Fundamentals, Datacamp
 
-
-# Links to Projects 
+# Data Projects
+* [AirBnB Tableau Visualization](#airbnb-tableau-visualization)
+* [Covid Tableau Visualization](#covid-tableau-visualization)
 * [Sales Dashboard Example](#sales-dashboard-example) 
 * [Sales Data Example](#sales-data-example)
-* [Covid Tableau Visualization](#covid-tableau-visualization)
-* [AirBnB Tableau Visualization](#airbnb-tableau-visualization)
-
-## Experience
-* Innovation Program Manager, * *McKesson* *
-* Business Intelligence Manager, * *Streamlytics* *
-* Digital Strategist, * *Digital Niche Agency* *
-* Engagement Manager, * *Growthink* *
-
-## Education
-* Bachelor's of Business Administration, Entrepreneurship **Loyola Marymount University**
-
-## Certifications
-* Google Data Analyst, Coursera (Key Courses Included: PowerBI, Tableau, Data Cleaning and Machine Learning)
 
 # Projects
 ## [AirBnB Tableau Visualization](/projects/airbnb_tableau_visualization)
@@ -109,14 +99,15 @@ WHERE continent IS NOT NULL
 GROUP BY location, population
 ORDER BY TotalDeathCount DES
 ```
-
-## Sales Data Example
+## [Sales Data Example](/projects/sales_data_example)
 ![](/bikesales.png)
 
 As part of the CFI BIDA certification, the data below provides sample data set of visualizing key metrics for sales metrics for a fictional company, CalWest.  
 [Full Tableau Public Visual provided Here](https://public.tableau.com/views/Test1_16856628787760/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ...insights to be added
+
+## [Sales Dashboard Example](/projects/sales_dashboard_example)
 ## Sales Dashboard Example
 ![](/CovidDdata.png)
 
