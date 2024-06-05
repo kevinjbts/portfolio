@@ -1,9 +1,9 @@
 ---
 layout: default
-title: AirBnB Project in Tableau
-description: Tableau Visualization
+title: Data Cleaning & Manipulation with Visualization in Tableau
+description: Utilizing Tableau & Python
 --- 
-![](/AirBnbTableau.png)
+![](/Dashboard.png)
 
 # Summary
 
