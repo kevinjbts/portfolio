@@ -10,12 +10,17 @@ Additionally, my data certifications include:
 * Tableau Fundamentals, Datacamp
 
 # Index
+* [Sample Customer Analysis](#sample_customer_analysis)
 * [AirBnB Tableau Visualization](#airbnb-tableau-visualization)
 * [Covid Tableau Visualization](#covid-tableau-visualization)
 * [Sales Dashboard Example](#sales-dashboard-example) 
 * [Sales Data Example](#sales-data-example)
 
 # Projects
+
+## [Sample Customer Analysis](/projects/sample_customer_analysis.md)
+![](/Dashboard.png)
+
 ## [AirBnB Tableau Visualization](/projects/airbnb_tableau_visualization.md)
 ![](/AirBnbTableau.png)
 
