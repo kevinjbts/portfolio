@@ -5,18 +5,59 @@ description: Utilizing Tableau & Python
 --- 
 ![](/Dashboard.png)
 
-# Summary
+# Background and Overview
 
-Utilizing the zeroAirBnB dataset (focusing on Seattle, Washington), this project provides due dilligence for a friend deciding whether or not to enter the AirBnB rental business. 
+This project seeks to leverage Exploratory Data Analysis including visualization, feature analysis, and basic aggregations. As a small company, NEWCO is looking for where best to allocate future marketing dollars to see overindexed return on advertising spend. Analyzing the 12-month sales data (synthetic generated data) provides a solution for guiding future marketing tests towards this end. In addition to Python EDA, Tableau has been utilized to view location & customer data for Sales Representatives to contact, and/or create custom lists for promotion geared towards new sales.  
 
-# Key Insights Provided: 
+![Visualization of Key Insights in Tableau](/images/GeoMap_SalesAnalysis.png) 
 
-* Average price per number of rented bedrooms
-* Price by Seattle Zip Code (map & graph) 
-* Time analysis of price for timing considerations
-* Listing by number of bedrooms
+See the full Tableau visualization [here](https://public.tableau.com/app/profile/kevin.bates3947/viz/SampleCustomerAnalysis_17175511318920/Dashboard)
 
-# Link
-[Full Tableau Visualization can be found here](https://public.tableau.com/app/profile/kevin.bates3947/viz/AirBnBDataSampleDashboard/Dashboard1)
+# Data Structure Overview
+The dataset contains 8 features and 500 observations. The 8 features include string, integer and categorical data types. 
 
-<div class='tableauPlaceholder' id='viz1717551914997' style='position: relative'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sa&#47;SampleCustomerAnalysis_17175511318920&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SampleCustomerAnalysis_17175511318920&#47;Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sa&#47;SampleCustomerAnalysis_17175511318920&#47;Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1717551914997');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+# Executive Summary 
+As a Data Analyst & Strategist tasked with providng reccomendations to NEWCO's founder, the EDA on current e-commerce sales resulted in a relevant action plan that can be iterated in the future. From the analysis, the top 10 States by Sales Volume represented $30k in sales, while also having an evenly distributed number of customers (no outliers). Because of this, allocating higher advertising towards these regions should be tested for improved ROAS vs. underperforming states. 
+
+In addition to adjusting advertising targeting, the Sales Analysis creates segmentation of the top 20% of purchasers for the company, representing a highly engaged audience for customized marketing campaigns and / or for sales reps. 
+
+Lastly, the insights able to be generated are limited by the features and current dataset. Future customer surveys and / or data collection can be leveraged to offer new opportunities to analyze performance, while further guiding advertising targeting. 
+
+# Insights Deep Dive
+
+View the full Python EDA in Jupyter Notebook [here:](Sales_Analysis.ipynb)
+
+### Key Performance Indicators: 
+* Mean purchase amount was $2,500
+* Minimum purchase amount: $9
+* Maximum purchase amount: $4,992
+* 20th percentile: $1,082
+* 80th percentile: $3,950
+* Total Sales: $1,250,143
+
+### Analyzing Sales Volume by Categories
+Seasonality doesn't play a factor as sales volume is relatively even across seasons.
+
+![image](/images/seasons2.png)
+
+Promotional activity also doesn't affect sales volume as it is evenly distributed: 
+
+![image](/images/promotions2.png)
+
+However, region affects sales performance, with 3 regions leading total sales volume: 
+
+![image](/images/regions2.png)
+
+Given these factors, the Python file creates a list of customers above the 80th percentile, representing highest purchasers. 
+
+Additionally, the top 10 states all have above 30k in sales revenue, while not having outliers in terms of total number of customers, representing best advertising targets for future tests. 
+
+![image](/images/top10.png)
+
+# Recommendations
+
+To maximize return on advertising spend, Region & State are the best opportunities to focus future advertising spend on the best performers. 
+
+The Top 10 States from this analysis each drove $30k in sales, and improved advertising in the states should be tested for higher ROI than other regions. 
+* The current dataset does not include data on repeat customers, demographic data, or sales channel - all of which could be additional factors to investigate for additional marketing optimization. 
+* Testing on our initial assumptions can be done in parallel with additional data collection. The recommendation to NEWCO would be to allocate a higher percentage of advertising spend towards the top 10 states, while also running promotional campaigns customer wide for surveys to collect additional data. This survey data can also be leveraged to guide brand marketing activities (outside of performance marketing). 
