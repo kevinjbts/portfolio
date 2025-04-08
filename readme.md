@@ -5,19 +5,19 @@ I’m currently focused on solving real-world business problems through data ana
 [Let's connect on LinkedIn](https://www.linkedin.com/in/kevinjbts)
 
 # Certifications
-* Asana, Workflow Specialist
-* Stanford, AI in Healthcare
-* Github Foundations, Datacamp
-* Google Data Analyst, Coursera
-* Data Analyst, Datacamp
-* SQL Fundamentals, Datacamp
-* Tableau Fundamentals, Datacamp
+* Asana, **Workflow Specialist**
+* Stanford, **AI in Healthcare**
+* Datacamp, **Github Foundations**
+* Coursera, **Google Data Analyst**
+* Datacamp, **Data Analyst**
+* Datacamp, **SQL Fundamentals**
+* Datacamp, **Tableau Fundamentals**
 
 # Books I've Read
-* AI Survival Guide -  Sol Rashidi
-* Ace the Data Science Interview  - Kevin Huo & Nick Singh
-* Confident Data Skills - Kirill Eremenko
-* Numsense! Data Science for the Layman - Annalyn Ng
+* _"AI Survival Guide"_ -  Sol Rashidi
+* _"Ace the Data Science Interview"_  - Kevin Huo & Nick Singh
+* _"Confident Data Skills"_ - Kirill Eremenko
+* _"Numsense! Data Science for the Layman"_ - Annalyn Ng
 
 ---
 
