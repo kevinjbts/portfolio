@@ -35,23 +35,26 @@ I’m currently focused on solving real-world business problems through data ana
 # Projects
 
 ## [Sample Customer Analysis](/projects/sample_customer_analysis.md)
+##### Tools: Pandas, MatplotLib, Tableau
 ![](/Dashboard.png)
 
 Using Pandas in Python, generated a sample customer list and transaction data, then did exploratory analysis for insights, visualizing in Matplotlib - and created an interactive dashboard in Tableau for stakeholder consumption. 
 
 ## [AirBnB Tableau Visualization](/projects/airbnb_tableau_visualization.md)
+##### Tools: Data Cleaning, Tableau
 ![](/AirBnbTableau.png)
 
 Utilizing data from zeroAirBnB data from SeattleWashington, the visualization provides insight into potential opportunity for key metrics for a friend deciding whether or not to enter the AirBnB business. 
 The full visualization native in Tableau can be found here: 
 
 ## [Covid Tableau Visualization](/projects/covid_visualization.md)
-
+##### Tools: SQL, Tableau
 ![](/CovidDdata.png)
 
 Utilized WHO data to clean, join, and visualize visualization of Covid Data, created from Alex the Analyst's tutorial. 
 
 ## [Sales Data Example](/projects/sales_data_example.md)
+##### Tools: Pandas, MatplotLib, PowerBI
 ![](/bikesales.png)
 
 As part of the CFI BIDA certification, the data below provides sample data set of visualizing key metrics for sales metrics for a fictional company, CalWest.  
