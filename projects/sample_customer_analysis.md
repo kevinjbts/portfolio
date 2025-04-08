@@ -38,21 +38,21 @@ View the full Python EDA in Jupyter Notebook [here:](Sales_Analysis.ipynb)
 ### Analyzing Sales Volume by Categories
 Seasonality doesn't play a factor as sales volume is relatively even across seasons.
 
-![image](/images/seasons2.png)
+![image](sales_analysis/images/seasons2.png)
 
 Promotional activity also doesn't affect sales volume as it is evenly distributed: 
 
-![image](/images/promotions2.png)
+![image](sales_analysis/images/promotions2.png)
 
 However, region affects sales performance, with 3 regions leading total sales volume: 
 
-![image](/images/regions2.png)
+![image](sales_analysis/images/regions2.png)
 
 Given these factors, the Python file creates a list of customers above the 80th percentile, representing highest purchasers. 
 
 Additionally, the top 10 states all have above 30k in sales revenue, while not having outliers in terms of total number of customers, representing best advertising targets for future tests. 
 
-![image](/images/top10.png)
+![image](sales_analysis/images/top10.png)
 
 # Recommendations
 
