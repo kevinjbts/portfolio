@@ -5,6 +5,7 @@ I’m currently focused on solving real-world business problems through data ana
 [Let's connect on LinkedIn](https://www.linkedin.com/in/kevinjbts)
 
 # Certifications
+* [**Microsoft Azure Fundamentals**](https://www.datacamp.com/completed/statement-of-accomplishment/track/47cd511f9ad610dfdb99467a9f72852b4e29777c), Datacamp
 * **Workflow Specialist**, Asana
 * **AI in Healthcare**, Stanford
 * **Github Foundations**, Datacamp
