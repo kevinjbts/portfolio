@@ -19,18 +19,16 @@ I’m currently focused on solving real-world business problems through data ana
 * _"Confident Data Skills"_ - Kirill Eremenko
 * _"Numsense! Data Science for the Layman"_ - Annalyn Ng
 
----
-
 #  Project Index
 * [Sample Customer Analysis](#sample_customer_analysis)
 * [AirBnB Tableau Visualization](#airbnb-tableau-visualization)
 * [Covid Tableau Visualization](#covid-tableau-visualization)
 * [Sales Dashboard Example](#sales-dashboard-example) 
 * [Sales Data Example](#sales-data-example)
-* [Movie Correlation](#movie_correlation)
+* [Movie Correlation](#movie-correlation)
 
 # [Sample Customer Analysis](/projects/sample_customer_analysis.md)
-## Pandas, MatplotLib, Tableau
+**Pandas, MatplotLib, Tableau**
 ![](/Dashboard.png)
 
 Using Pandas in Python, generated a sample customer list and transaction data, then did exploratory analysis for insights, visualizing in Matplotlib - and created an interactive dashboard in Tableau for stakeholder consumption. 
