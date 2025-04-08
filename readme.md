@@ -27,6 +27,7 @@ I’m currently focused on solving real-world business problems through data ana
 * [Covid Tableau Visualization](#covid-tableau-visualization)
 * [Sales Dashboard Example](#sales-dashboard-example) 
 * [Sales Data Example](#sales-data-example)
+* [Movie Correlation](#movie_correlation)
 
 # [Sample Customer Analysis](/projects/sample_customer_analysis.md)
 ## Pandas, MatplotLib, Tableau
@@ -58,3 +59,8 @@ As part of the CFI BIDA certification, the data below provides sample data set o
 
 Utilizing data from zeroAirBnB data from SeattleWashington, the visualization provides insight into potential opportunity for key metrics for a friend deciding whether or not to enter the AirBnB business. 
 
+# [Movie Correlation Analysis](/projects/movie_correlation_analysis.md)
+### Pandas, Numpy, MatplotLib, HeatMap
+![Image](https://github.com/user-attachments/assets/2bb825e2-4cb5-4253-b0a6-86f582787b6c)
+
+As part of a sample Alex the Analyst project, utilized a sample IMDB database to analyze correlation between features for movie performance. 
