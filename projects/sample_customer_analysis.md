@@ -9,7 +9,7 @@ description: Utilizing Tableau & Python
 
 This project seeks to leverage Exploratory Data Analysis including visualization, feature analysis, and basic aggregations. As a small company, NEWCO is looking for where best to allocate future marketing dollars to see overindexed return on advertising spend. Analyzing the 12-month sales data (synthetic generated data) provides a solution for guiding future marketing tests towards this end. In addition to Python EDA, Tableau has been utilized to view location & customer data for Sales Representatives to contact, and/or create custom lists for promotion geared towards new sales.  
 
-![Visualization of Key Insights in Tableau](/images/GeoMap_SalesAnalysis.png) 
+![Visualization of Key Insights in Tableau](https://github.com/kevinjbts/images/GeoMap_SalesAnalysis.png) 
 
 See the full Tableau visualization [here](https://public.tableau.com/app/profile/kevin.bates3947/viz/SampleCustomerAnalysis_17175511318920/Dashboard)
 
@@ -38,15 +38,15 @@ View the full Python EDA in Jupyter Notebook [here:](Sales_Analysis.ipynb)
 ### Analyzing Sales Volume by Categories
 Seasonality doesn't play a factor as sales volume is relatively even across seasons.
 
-![image](sales_analysis/images/seasons2.png)
+![image](https://github.com/kevinjbts/sales_analysis/images/seasons2.png)
 
 Promotional activity also doesn't affect sales volume as it is evenly distributed: 
 
-![image](sales_analysis/images/promotions2.png)
+![image](https://github.com/kevinjbts/sales_analysis/images/promotions2.png)
 
 However, region affects sales performance, with 3 regions leading total sales volume: 
 
-![image](sales_analysis/images/regions2.png)
+![image](https://github.com/kevinjbts/sales_analysis/images/regions2.png)
 
 Given these factors, the Python file creates a list of customers above the 80th percentile, representing highest purchasers. 
 
