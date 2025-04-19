@@ -29,26 +29,26 @@ I’m currently focused on solving real-world business problems through data ana
 * [Movie Correlation](#movie-correlation)
 
 # [Sample Customer Analysis](/projects/sample_customer_analysis.md)
-**Pandas, MatplotLib, Tableau**
+## Pandas, MatplotLib, Tableau
 ![](/Dashboard.png)
 
 Using Pandas in Python, generated a sample customer list and transaction data, then did exploratory analysis for insights, visualizing in Matplotlib - and created an interactive dashboard in Tableau for stakeholder consumption. 
 
 # [AirBnB Tableau Visualization](/projects/airbnb_tableau_visualization.md)
-### Data Cleaning, Tableau
+## Data Cleaning, Tableau
 ![](/AirBnbTableau.png)
 
 Utilizing data from zeroAirBnB data from SeattleWashington, the visualization provides insight into potential opportunity for key metrics for a friend deciding whether or not to enter the AirBnB business. 
 The full visualization native in Tableau can be found here: 
 
-## [Covid Tableau Visualization](/projects/covid_visualization.md)
-### SQL, Tableau
+# [Covid Tableau Visualization](/projects/covid_visualization.md)
+## SQL, Tableau
 ![](/CovidDdata.png)
 
 Utilized WHO data to clean, join, and visualize visualization of Covid Data, created from Alex the Analyst's tutorial. 
 
 # [Sales Data Example](/projects/sales_data_example.md)
-### Pandas, MatplotLib, PowerBI
+## Pandas, MatplotLib, PowerBI
 ![](/bikesales.png)
 
 As part of the CFI BIDA certification, the data below provides sample data set of visualizing key metrics for sales metrics for a fictional company, CalWest.  
@@ -59,7 +59,7 @@ As part of the CFI BIDA certification, the data below provides sample data set o
 Utilizing data from zeroAirBnB data from SeattleWashington, the visualization provides insight into potential opportunity for key metrics for a friend deciding whether or not to enter the AirBnB business. 
 
 # [Movie Correlation](/projects/movie_correlation.md)
-### Pandas, Numpy, MatplotLib, HeatMap
+## Pandas, Numpy, MatplotLib, HeatMap
 ![Image](https://github.com/user-attachments/assets/2bb825e2-4cb5-4253-b0a6-86f582787b6c)
 
 As part of a sample Alex the Analyst project, utilized a sample IMDB database to analyze correlation between features for movie performance. 
