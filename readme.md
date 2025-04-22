@@ -3,9 +3,9 @@ Hi, I’m Kevin — a former strategist and startup advisor turned data analyst,
 
 I specialize in:
 
-+ Data Analytics & Visualization: Using SQL, Tableau, and Python to extract insights and craft dashboards that inform strategic decisions.
-+ Project Management & Strategy: Leading cross-functional initiatives to align data science projects with business objectives.
-+ Business Growth & Innovation: Supporting decision-making through data-driven solutions for scalability, operational efficiency, and financial growth.
++ **Data Analytics & Visualization:** Using SQL, Tableau, and Python to extract insights and craft dashboards that inform strategic decisions.
++ **Project Management & Strategy:** Leading cross-functional initiatives to align data science projects with business objectives.
++ **Business Growth & Innovation:** Supporting decision-making through data-driven solutions for scalability, operational efficiency, and financial growth.
 
 [Let's connect on LinkedIn](https://www.linkedin.com/in/kevinjbts)
 
@@ -19,25 +19,31 @@ I specialize in:
 * **SQL Fundamentals**, Datacamp
 * **Tableau Fundamentals**, Datacamp
 
-# Books I've Read
+# Recent Data Reads
 * _"AI Survival Guide"_ -  Sol Rashidi
 * _"Ace the Data Science Interview"_  - Kevin Huo & Nick Singh
 * _"Confident Data Skills"_ - Kirill Eremenko
 * _"Numsense! Data Science for the Layman"_ - Annalyn Ng
 
 #  Project Index
+* [Movie Correlation](#movie-correlation)
 * [Sample Customer Analysis](#sample_customer_analysis)
 * [AirBnB Tableau Visualization](#airbnb-tableau-visualization)
 * [Covid Tableau Visualization](#covid-tableau-visualization)
 * [Sales Dashboard Example](#sales-dashboard-example) 
 * [Sales Data Example](#sales-data-example)
-* [Movie Correlation](#movie-correlation)
+
+# [Movie Correlation](/projects/movie_correlation.md)
+## Pandas, Numpy, MatplotLib, HeatMaps
+![Image](https://github.com/user-attachments/assets/2bb825e2-4cb5-4253-b0a6-86f582787b6c)
+
+Utilizing an Alex the Analyst project, utilized the IMDB movie database to understand correlation between features for movie performance. 
 
 # [Sample Customer Analysis](/projects/sample_customer_analysis.md)
 ## Pandas, MatplotLib, Tableau
 ![](/Dashboard.png)
 
-Using Pandas in Python, generated a sample customer list and transaction data, then did exploratory analysis for insights, visualizing in Matplotlib - and created an interactive dashboard in Tableau for stakeholder consumption. 
+Using Pandas in Python, generated a sample customer list and transaction data, exploratory analysis for insights, visualizing in Matplotlib - and created an interactive dashboard in Tableau for stakeholder consumption. 
 
 # [AirBnB Tableau Visualization](/projects/airbnb_tableau_visualization.md)
 ## Data Cleaning, Tableau
@@ -62,9 +68,3 @@ As part of the CFI BIDA certification, the data below provides sample data set o
 ![](/CovidDdata.png)
 
 Utilizing data from zeroAirBnB data from SeattleWashington, the visualization provides insight into potential opportunity for key metrics for a friend deciding whether or not to enter the AirBnB business. 
-
-# [Movie Correlation](/projects/movie_correlation.md)
-## Pandas, Numpy, MatplotLib, HeatMap
-![Image](https://github.com/user-attachments/assets/2bb825e2-4cb5-4253-b0a6-86f582787b6c)
-
-As part of a sample Alex the Analyst project, utilized a sample IMDB database to analyze correlation between features for movie performance. 
