@@ -12,6 +12,7 @@ Alex The Analyst Portfolio Project with Movie Correlations
 
 # Background and Overview
 
+Leveraging a sample project by Alex the Analyst, utilized the IMDB Movie database to explore correlation between various features within the dataset against movie performance. 
 This project seeks to leverage Exploratory Data Analysis including visualization, feature analysis, and basic aggregations. As a small company, NEWCO is looking for where best to allocate future marketing dollars to see overindexed return on advertising spend. Analyzing the 12-month sales data (synthetic generated data) provides a solution for guiding future marketing tests towards this end. In addition to Python EDA, Tableau has been utilized to view location & customer data for Sales Representatives to contact, and/or create custom lists for promotion geared towards new sales.  
 
 ![Visualization of Key Insights in Tableau](/images/GeoMap_SalesAnalysis.png) 
