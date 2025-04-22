@@ -1,6 +1,12 @@
 # About Me 
 Hi, I’m Kevin — a former strategist and startup advisor turned data analyst, passionate about helping teams make smarter, data-driven decisions. Over the past 8+ years, I’ve led strategy and analytics projects across industries, combining technical tools like Python, SQL, Tableau, and Power BI with business expertise to bridge the gap between data teams and decision-makers. My portfolio showcases real-world projects focused on turning data into impact through clear visualizations, streamlined reporting, and actionable insights.
 
+I specialize in:
+
++ Data Analytics & Visualization: Using SQL, Tableau, and Python to extract insights and craft dashboards that inform strategic decisions.
++ Project Management & Strategy: Leading cross-functional initiatives to align data science projects with business objectives.
++ Business Growth & Innovation: Supporting decision-making through data-driven solutions for scalability, operational efficiency, and financial growth.
+
 [Let's connect on LinkedIn](https://www.linkedin.com/in/kevinjbts)
 
 # Certifications
