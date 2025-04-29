@@ -17,7 +17,7 @@ I specialize in:
 * **Google Data Analyst**, Coursera
 * **Data Analyst**, Datacamp
 * **SQL Fundamentals**, Datacamp
-* **Tableau Fundamentals**, Datacamp
+* [**Data Analyst in Tableau**](https://www.datacamp.com/completed/statement-of-accomplishment/track/6fb44f51c1924e44ad56637823d3940e1d9ce551), Datacamp
 
 # Recent Data Reads
 * _"AI Survival Guide"_ -  Sol Rashidi
