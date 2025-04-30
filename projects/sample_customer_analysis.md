@@ -3,13 +3,11 @@ layout: default
 title: Data Cleaning & Manipulation with Visualization in Tableau
 description: Utilizing Tableau & Python
 --- 
-![](/Dashboard.png)
-
 # Background and Overview
 
 This project seeks to leverage Exploratory Data Analysis including visualization, feature analysis, and basic aggregations. As a small company, NEWCO is looking for where best to allocate future marketing dollars to see overindexed return on advertising spend. Analyzing the 12-month sales data (synthetic generated data) provides a solution for guiding future marketing tests towards this end. In addition to Python EDA, Tableau has been utilized to view location & customer data for Sales Representatives to contact, and/or create custom lists for promotion geared towards new sales.  
 
-![Visualization of Key Insights in Tableau](https://github.com/kevinjbts/images/GeoMap_SalesAnalysis.png) 
+![Image](https://github.com/user-attachments/assets/c781838d-f43b-40be-bcb1-e1e704638183)
 
 See the full Tableau visualization [here](https://public.tableau.com/app/profile/kevin.bates3947/viz/SampleCustomerAnalysis_17175511318920/Dashboard)
 
@@ -37,22 +35,24 @@ View the full Python EDA in Jupyter Notebook [here:](Sales_Analysis.ipynb)
 
 ### Analyzing Sales Volume by Categories
 Seasonality doesn't play a factor as sales volume is relatively even across seasons.
-
-![image](https://github.com/kevinjbts/sales_analysis/images/seasons2.png)
+![Image](https://github.com/user-attachments/assets/785b2363-f8cd-41d4-ab4b-3c08ac646232)
 
 Promotional activity also doesn't affect sales volume as it is evenly distributed: 
 
-![image](https://github.com/kevinjbts/sales_analysis/images/promotions2.png)
+![Image](https://github.com/user-attachments/assets/36572a4a-99f6-4cb5-968a-dfa50adc15b6)
+
 
 However, region affects sales performance, with 3 regions leading total sales volume: 
 
-![image](https://github.com/kevinjbts/sales_analysis/images/regions2.png)
+![Image](https://github.com/user-attachments/assets/da5787f0-bf60-487f-b2c5-ca1e40679104)
+
 
 Given these factors, the Python file creates a list of customers above the 80th percentile, representing highest purchasers. 
 
 Additionally, the top 10 states all have above 30k in sales revenue, while not having outliers in terms of total number of customers, representing best advertising targets for future tests. 
 
-![image](sales_analysis/images/top10.png)
+![Image](https://github.com/user-attachments/assets/e42038f2-8e72-4a1a-8c99-7f4da6cde041)
+
 
 # Recommendations
 
