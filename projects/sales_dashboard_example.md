@@ -5,14 +5,14 @@ description: Test utilizing sales data from SQL
 
 ## [Sales Dashboard Example](/projects/sales_dashboard_example)
 ## Sales Dashboard Example
-![](/CovidDdata.png)
+![Image](https://github.com/user-attachments/assets/2a8de1ab-26ad-4055-81d2-8c119c872fa1)
 
-Utilizing data from zeroAirBnB data from SeattleWashington, the visualization provides insight into potential opportunity for key metrics for a friend deciding whether or not to enter the AirBnB business. 
-The full visualization native in Tableau can be found here: 
+As part of coursework for the Corporate Finance Institute, Business Intelligence & Data Analyst Certification, prepared a dashboard for a sample company (CalWest) showing E-Commerce performance for a local company. 
+The Full Tableau Visualization can be provided below: 
 
-[https://public.tableau.com/views/AirBnBDataSampleDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-](url)
+[CalWest E-Commerce Dashboard](https://public.tableau.com/views/PracticeDashboard1_16830829547150/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-...insights to be added
+## Key Insights: 
 
-<div class='tableauPlaceholder' id='viz1744086721746' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Te&#47;Test1_16856628787760&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Test1_16856628787760&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Te&#47;Test1_16856628787760&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1744086721746');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+- To Complete this project, cleaned individual datasets within PowerQuery, then visulaized the data in Tableau. 
+- Key Visualizations include: Plotting Gross Revenue across Month by Category, Calculating Profit Margin by Product Category, and Gross Revenue x Profit Margin by Category, as well as key Summary Statistics.  
