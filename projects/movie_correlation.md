@@ -1,26 +1,16 @@
 # MovieCorrelations
 Alex The Analyst Portfolio Project with Movie Correlations
 
-![Image](https://github.com/user-attachments/assets/97f117e8-4dab-4163-a8a4-53a0d7699b36)
-
-![Image](https://github.com/user-attachments/assets/f79263e4-7476-470e-b0bd-319db4cfdb92)
-
-![Image](https://github.com/user-attachments/assets/0fae30d3-ce76-421b-ad9f-02b8af39c52f)
-
-![Image](https://github.com/user-attachments/assets/2bb825e2-4cb5-4253-b0a6-86f582787b6c)
-
-
 # Background and Overview
 
-Leveraging a sample project by Alex the Analyst, utilized the IMDB Movie database to explore correlation between various features within the dataset against movie performance. 
-This project seeks to leverage Exploratory Data Analysis including visualization, feature analysis, and basic aggregations. As a small company, NEWCO is looking for where best to allocate future marketing dollars to see overindexed return on advertising spend. Analyzing the 12-month sales data (synthetic generated data) provides a solution for guiding future marketing tests towards this end. In addition to Python EDA, Tableau has been utilized to view location & customer data for Sales Representatives to contact, and/or create custom lists for promotion geared towards new sales.  
-
-![Visualization of Key Insights in Tableau](/images/GeoMap_SalesAnalysis.png) 
-
-See the full Tableau visualization [here](https://public.tableau.com/app/profile/kevin.bates3947/viz/SampleCustomerAnalysis_17175511318920/Dashboard)
+Leveraging a sample project by Alex the Analyst, utilized the IMDB Movie database to explore correlation between various features within the dataset against movie performance. The initial hypothesis is that movie votes and gross profit have a positive correlation. Utilized Python to clean and analyze data using key visualizations including regression, heatmaps and correlation matrixes. 
 
 # Data Structure Overview
-The dataset contains 16 features and 7668 observations. The 8 features include string, integer and categorical data types. 
+The dataset contains 16 features and 7668 observations. The 8 features include string, integer and categorical data types. To clean the dataset, the following steps were taken: 
+
+- Check for Null Values
+- Adjust Date Types for Features
+- Drop Duplicates
 
 # Executive Summary 
 As a Data Analyst & Strategist tasked with providng reccomendations to NEWCO's founder, the EDA on current e-commerce sales resulted in a relevant action plan that can be iterated in the future. From the analysis, the top 10 States by Sales Volume represented $30k in sales, while also having an evenly distributed number of customers (no outliers). Because of this, allocating higher advertising towards these regions should be tested for improved ROAS vs. underperforming states. 
@@ -44,21 +34,22 @@ View the full Python EDA in Jupyter Notebook [here:](Movie_Correlation_Analysis.
 ### Analyzing Sales Volume by Categories
 Seasonality doesn't play a factor as sales volume is relatively even across seasons.
 
-![image](/images/seasons2.png)
+![Image](https://github.com/user-attachments/assets/97f117e8-4dab-4163-a8a4-53a0d7699b36)
 
 Promotional activity also doesn't affect sales volume as it is evenly distributed: 
 
-![image](/images/promotions2.png)
+![Image](https://github.com/user-attachments/assets/f79263e4-7476-470e-b0bd-319db4cfdb92)
 
 However, region affects sales performance, with 3 regions leading total sales volume: 
 
-![image](/images/regions2.png)
+
+![Image](https://github.com/user-attachments/assets/0fae30d3-ce76-421b-ad9f-02b8af39c52f)
 
 Given these factors, the Python file creates a list of customers above the 80th percentile, representing highest purchasers. 
 
-Additionally, the top 10 states all have above 30k in sales revenue, while not having outliers in terms of total number of customers, representing best advertising targets for future tests. 
+![Image](https://github.com/user-attachments/assets/2bb825e2-4cb5-4253-b0a6-86f582787b6c)
 
-![image](/images/top10.png)
+Additionally, the top 10 states all have above 30k in sales revenue, while not having outliers in terms of total number of customers, representing best advertising targets for future tests. 
 
 # Recommendations
 
