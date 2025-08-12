@@ -59,7 +59,7 @@ The full visualization native in Tableau can be found here:
 
 Utilized WHO data to clean, join, and visualize visualization of Covid Data, created from Alex the Analyst's tutorial. 
 
-# [Sales Data Example](/projects/sales_data_example.md)
+# [Sales Data Example](kevinjbts/Data_Projects_2025.md)
 ## Pandas, MatplotLib, PowerBI
 ![](/bikesales.png)
 
