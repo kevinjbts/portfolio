@@ -52,3 +52,8 @@ Analyzed data from the Zero AirBnB dataset (focused on Seattle, Washington). To 
 
 Pulled data from World Health Organization from a SQL connection, and visualization results. 
 
+## [Sales Data](/projects/salesdata.md)
+**Skills:** *Tableau*
+
+As part of of the Corporate Finance Institute, Business Intelligence & Data Analyst Certification, created a Tableau dashboard for a fictional e-commerce company. 
+
