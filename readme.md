@@ -29,20 +29,20 @@ I specialize in:
 # Portfolio Projects
 Listed below are a selection of portfolio projects. Click into each project for the full write-up and code. 
 
-# [Movie Correlation](/projects/movie_correlation.md)
+## [Movie Correlation](/projects/movie_correlation.md)
 **Skills**: Pandas, Numpy, MatplotLib, HeatMaps
 ![Image](https://github.com/user-attachments/assets/2bb825e2-4cb5-4253-b0a6-86f582787b6c)
 
 Utilizing an Alex the Analyst project, utilized the IMDB movie database to understand correlation between features for movie performance. 
 
-# [Sample Customer Analysis](/projects/sample_customer_analysis.md)
-**Skills:**: MatplotLib, Tableau
+### [Sample Customer Analysis](/projects/sample_customer_analysis.md)
+**Skills:** MatplotLib, Tableau
 ![](/Dashboard.png)
 
 Using Pandas in Python, generated a sample customer list and transaction data, exploratory analysis for insights, visualizing in Matplotlib - and created an interactive dashboard in Tableau for stakeholder consumption. 
 
 # [AirBnb-EDA](/projects/airbnbeda.md)
-**Skills:**: Tableau
+**Skills**: Tableau
 ![Image](/images/Dashboard 1.png)
 
 Analyzed data from the Zero AirBnB dataset (focused on Seattle, Washington). To understand key insights and due dilligence for opportunity of entering AirBnB rental business in the area. 
