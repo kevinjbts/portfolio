@@ -37,3 +37,11 @@ Utilizing an Alex the Analyst project, utilized the IMDB movie database to under
 ![](/Dashboard.png)
 
 Using Pandas in Python, generated a sample customer list and transaction data, exploratory analysis for insights, visualizing in Matplotlib - and created an interactive dashboard in Tableau for stakeholder consumption. 
+
+# [AirBnb-EDA][/projects/airbnbeda.md]
+## Tableau
+
+Utilizing the zeroAirBnB dataset (focusing on Seattle, Washington), this project provides due dilligence for a friend deciding whether or not to enter the AirBnB rental business. 
+
+# Link
+[Full Tableau Visualization can be found here](https://public.tableau.com/app/profile/kevin.bates3947/viz/AirBnBDataSampleDashboard/Dashboard1)
