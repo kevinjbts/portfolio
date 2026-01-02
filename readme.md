@@ -11,13 +11,13 @@ I specialize in:
 
 # Certifications
 * [**Microsoft Azure Fundamentals**](https://www.datacamp.com/completed/statement-of-accomplishment/track/47cd511f9ad610dfdb99467a9f72852b4e29777c), Datacamp
-* **Workflow Specialist**, Asana
-* **AI in Healthcare**, Stanford
-* **Github Foundations**, Datacamp
-* **Google Data Analyst**, Coursera
-* **Data Analyst**, Datacamp
-* **SQL Fundamentals**, Datacamp
-* **dbt Labs**, dbt Fundamentals
+* [**Workflow Specialist**](https://certifications.asana.com/7ae43afd-fa75-4366-b243-14da30fc4db4#acc.lQbJqS6a), Asana
+* [**AI in Healthcare**](https://www.coursera.org/account/accomplishments/specialization/certificate/0DUHN6WGWYZS), Stanford
+* [**Github Foundations**](https://www.datacamp.com/completed/statement-of-accomplishment/track/b8e2da838504615956bf653e44fee2e6cac692e5), Datacamp
+* [**Google Data Analyst**](https://www.credly.com/badges/f6549e43-c6a1-4aa5-b075-27dbe49f96da/public_url), Coursera
+* [**Data Analyst**](https://www.datacamp.com/completed/statement-of-accomplishment/track/c5a53413d551e9a6434a01af957ef6b2a679ded6), Datacamp
+* [**SQL Fundamentals**](https://www.datacamp.com/completed/statement-of-accomplishment/track/d7634a4ba4f08f2d8e8ae644c6df9459254c6099), Datacamp
+* [**dbt Labs**](https://credentials.getdbt.com/34e64c72-9230-4565-90a3-15032b6d742b#acc.aoCLTi9K), dbt Fundamentals
 * [**Data Analyst in Tableau**](https://www.datacamp.com/completed/statement-of-accomplishment/track/6fb44f51c1924e44ad56637823d3940e1d9ce551), Datacamp
 
 # Recent Data Reads
