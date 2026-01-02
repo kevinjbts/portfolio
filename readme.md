@@ -44,4 +44,4 @@ Using Pandas in Python, generated a sample customer list and transaction data, e
 Utilizing the zeroAirBnB dataset (focusing on Seattle, Washington), this project provides due dilligence for a friend deciding whether or not to enter the AirBnB rental business. 
 
 # Link
-[Full Tableau Visualization can be found here](https://public.tableau.com/app/profile/kevin.bates3947/viz/AirBnBDataSampleDashboard/Dashboard1)
+![](/images/Dashboard 1.png)
