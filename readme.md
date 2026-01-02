@@ -47,3 +47,8 @@ Using Pandas in Python, generated a sample customer list and transaction data, e
 
 Analyzed data from the Zero AirBnB dataset (focused on Seattle, Washington). To understand key insights and due dilligence for opportunity of entering AirBnB rental business in the area. 
 
+## [Covid Visualization](/projects/covidvisualization.md)
+**Skills:** *SQL, Tableau*
+
+Pulled data from World Health Organization from a SQL connection, and visualization results. 
+
