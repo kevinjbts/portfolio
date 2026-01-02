@@ -26,22 +26,24 @@ I specialize in:
 * _"Confident Data Skills"_ - Kirill Eremenko
 * _"Numsense! Data Science for the Layman"_ - Annalyn Ng
 
+# Portfolio Projects
+Listed below are a selection of portfolio projects. Click into each project for the full write-up and code. 
+
 # [Movie Correlation](/projects/movie_correlation.md)
-## Pandas, Numpy, MatplotLib, HeatMaps
+*Skills:*: Pandas, Numpy, MatplotLib, HeatMaps
 ![Image](https://github.com/user-attachments/assets/2bb825e2-4cb5-4253-b0a6-86f582787b6c)
 
 Utilizing an Alex the Analyst project, utilized the IMDB movie database to understand correlation between features for movie performance. 
 
 # [Sample Customer Analysis](/projects/sample_customer_analysis.md)
-## Pandas, MatplotLib, Tableau
+*Skills:*: MatplotLib, Tableau
 ![](/Dashboard.png)
 
 Using Pandas in Python, generated a sample customer list and transaction data, exploratory analysis for insights, visualizing in Matplotlib - and created an interactive dashboard in Tableau for stakeholder consumption. 
 
-# [AirBnb-EDA][/projects/airbnbeda.md]
-## Tableau
+# [AirBnb-EDA](/projects/airbnbeda.md)
+*Skills:*: Tableau
+![Image](/images/Dashboard 1.png)
 
-Utilizing the zeroAirBnB dataset (focusing on Seattle, Washington), this project provides due dilligence for a friend deciding whether or not to enter the AirBnB rental business. 
+Analyzed data from the Zero AirBnB dataset (focused on Seattle, Washington). To understand key insights and due dilligence for opportunity of entering AirBnB rental business in the area. 
 
-# Link
-![](/images/Dashboard 1.png)
