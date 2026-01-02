@@ -57,3 +57,8 @@ Pulled data from World Health Organization from a SQL connection, and visualizat
 
 As part of of the Corporate Finance Institute, Business Intelligence & Data Analyst Certification, created a Tableau dashboard for a fictional e-commerce company. 
 
+## [E-Commerce Dashboard](/projects/ecommerce.md)
+**Skills:** *Tableau*
+
+As part of of the Corporate Finance Institute, Business Intelligence & Data Analyst Certification, created a Tableau dashboard for a fictional e-commerce company. 
+
