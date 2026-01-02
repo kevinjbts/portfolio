@@ -1,5 +1,5 @@
 title: Kevin Bates
-logo: /images/circle2.jpg
+logo: /images/profile.png
 description: Data-driven strategist turning insights into impact
-show_downloads: false
-theme: jekyll-theme-cayman
+show_downloads: true
+theme: jekyll-theme-minimal
