@@ -23,12 +23,8 @@ Lastly, the insights able to be generated are limited by the features and curren
 View the full Python EDA in Jupyter Notebook [here:](Movie_Correlation_Analysis.ipynb)
 
 ### Key Performance Indicators: 
-* Mean purchase amount was $2,500
-* Minimum purchase amount: $9
-* Maximum purchase amount: $4,992
-* 20th percentile: $1,082
-* 80th percentile: $3,950
-* Total Sales: $1,250,143
+* Highest Correlated features: votes vs. gross earnings: .63
+* votes & budget, 0.44
 
 ### Analyzing Sales Volume by Categories
 Based on a basic regression, there is a positive correlation between gross profit and total movie budget. 
