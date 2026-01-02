@@ -1,5 +1,4 @@
-# MovieCorrelations
-Alex The Analyst Portfolio Project with Movie Correlations
+# IMDB Movie Feature Correlation
 
 # Background and Overview
 
@@ -32,29 +31,24 @@ View the full Python EDA in Jupyter Notebook [here:](Movie_Correlation_Analysis.
 * Total Sales: $1,250,143
 
 ### Analyzing Sales Volume by Categories
-Seasonality doesn't play a factor as sales volume is relatively even across seasons.
+Based on a basic regression, there is a positive correlation between gross profit and total movie budget. 
 
 ![Image](https://github.com/user-attachments/assets/97f117e8-4dab-4163-a8a4-53a0d7699b36)
 
-Promotional activity also doesn't affect sales volume as it is evenly distributed: 
+After developing a heatmap of features within the IMDB database, movie votes and gross profit seem to be correlated (.63) as well as gross profit and movie budget (0.74) which further supports the previous analysis. 
 
 ![Image](https://github.com/user-attachments/assets/f79263e4-7476-470e-b0bd-319db4cfdb92)
 
-However, region affects sales performance, with 3 regions leading total sales volume: 
-
+This is further expanded when all features are leveraged, and the same features rise to the surface as the top correlated features. 
 
 ![Image](https://github.com/user-attachments/assets/0fae30d3-ce76-421b-ad9f-02b8af39c52f)
 
-Given these factors, the Python file creates a list of customers above the 80th percentile, representing highest purchasers. 
+When more specifically charting gross earnings vs. budget, we see the positive correlation. 
 
 ![Image](https://github.com/user-attachments/assets/2bb825e2-4cb5-4253-b0a6-86f582787b6c)
 
-Additionally, the top 10 states all have above 30k in sales revenue, while not having outliers in terms of total number of customers, representing best advertising targets for future tests. 
+Based on a few various visualizations, it is clear that Gross Earnings and Budget are heavily correlated. 
 
 # Recommendations
 
-To maximize return on advertising spend, Region & State are the best opportunities to focus future advertising spend on the best performers. 
-
-The Top 10 States from this analysis each drove $30k in sales, and improved advertising in the states should be tested for higher ROI than other regions. 
-* The current dataset does not include data on repeat customers, demographic data, or sales channel - all of which could be additional factors to investigate for additional marketing optimization. 
-* Testing on our initial assumptions can be done in parallel with additional data collection. The recommendation to NEWCO would be to allocate a higher percentage of advertising spend towards the top 10 states, while also running promotional campaigns customer wide for surveys to collect additional data. This survey data can also be leveraged to guide brand marketing activities (outside of performance marketing). 
+While at a larger level, gross earnings are highly correlated to budget, it would be interesting to also look into movies which over-indexed on gross earnings below a budget threshold. If we know that high budget movies tend to perform well, seeing any correlation between movies that had lower budgets but over-indexed on earnings might help to show how to create higher-earning movies without the expansive budgets necessary. Or for smaller producers looking at trends that can help them to over-perform with their films. 
