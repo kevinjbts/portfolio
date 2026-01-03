@@ -1,10 +1,5 @@
 # AirBnb-EDA
 
----
-layout: default
-title: AirBnB Project in Tableau
-description: Tableau Visualization
---- 
 ![](/AirBnbTableau.png)
 
 # Summary
