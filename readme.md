@@ -47,11 +47,6 @@ Using Pandas in Python, generated a sample customer list and transaction data, e
 
 Analyzed data from the Zero AirBnB dataset (focused on Seattle, Washington). To understand key insights and due dilligence for opportunity of entering AirBnB rental business in the area. 
 
-## [Sales Data](/projects/salesdata.md)
-**Skills:** *Tableau*
-
-As part of of the Corporate Finance Institute, Business Intelligence & Data Analyst Certification, created a Tableau dashboard for a fictional e-commerce company. 
-
 ## [E-Commerce Dashboard](/projects/ecommerce.md)
 **Skills:** *Tableau*
 
