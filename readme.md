@@ -37,7 +37,7 @@ Utilizing an Alex the Analyst project, utilized the IMDB movie database to under
 
 ## [Sample Customer Analysis](/projects/sample_customer_analysis.md)
 **Skills:** *MatplotLib, Tableau*
-![](/Dashboard.png)
+![Image](images/Dashboard.png)
 
 Using Pandas in Python, generated a sample customer list and transaction data, exploratory analysis for insights, visualizing in Matplotlib - and created an interactive dashboard in Tableau for stakeholder consumption. 
 
