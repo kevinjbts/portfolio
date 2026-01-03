@@ -2,8 +2,6 @@
 title: E-Commerce Dashboard
 description: Tableau Dashboard Summarizing Key E-Commerce Data
 ---
-
-## [Sales Dashboard Example](/projects/sales_dashboard_example)
 ## Sales Dashboard Example
 ![Image](https://github.com/user-attachments/assets/2a8de1ab-26ad-4055-81d2-8c119c872fa1)
 
