@@ -49,6 +49,7 @@ Analyzed data from the Zero AirBnB dataset (focused on Seattle, Washington). To 
 
 ## [E-Commerce Dashboard](/projects/ecommerce.md)
 **Skills:** *Tableau*
+![Image](https://github.com/user-attachments/assets/2a8de1ab-26ad-4055-81d2-8c119c872fa1)
 
 As part of of the Corporate Finance Institute, Business Intelligence & Data Analyst Certification, created a Tableau dashboard for a fictional e-commerce company. 
 
